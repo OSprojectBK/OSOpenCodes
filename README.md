@@ -3,5 +3,11 @@ OSOpenCodes
 
 Place where my code is your code
 
-code code code
+#include<iostream>
+using namespace std;
+int main()
+{
+  cout<<"hello tin"<<endl;
+  return 0;
+}
 
